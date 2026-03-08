@@ -4,11 +4,12 @@ A comprehensive guide to system design across **Mobile**, **Backend**, **Web**, 
 
 ## Author
 
-**Muhammad Umer Sheraz**  
-Senior Software Engineer / Technical Lead
+**Muhammad Umer Sheraz** — Senior Software Engineer / Technical Lead
 
-- **LinkedIn:** [linkedin.com/in/muhammad-umer-sheraz](https://www.linkedin.com/in/muhammad-umer-sheraz)
 - **Portfolio:** [muhammadumersheraz.com](https://muhammadumersheraz.com/)
+- **Email:** muhamadumersheraz@gmail.com
+- **Phone:** +923076450994
+- **LinkedIn:** [linkedin.com/in/muhammad-umer-sheraz](https://www.linkedin.com/in/muhammad-umer-sheraz/)
 
 ---
 
